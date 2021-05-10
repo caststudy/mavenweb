@@ -14,4 +14,5 @@ team--share project
 
 #quick start 工程后增加web
 
-![Uploading 图片.png…]()
+![图片](https://user-images.githubusercontent.com/34714250/117627309-9d818580-b1aa-11eb-90c0-0196252f1626.png)
+
