@@ -8,10 +8,8 @@
 #  project facets
 
 
-![图片](https://user-images.githubusercontent.com/34714250/117628066-55af2e00-b1ab-11eb-8284-6d05c4f0c5a6.png)
+![图片](https://user-images.githubusercontent.com/34714250/117632368-a58ff400-b1af-11eb-92b2-9d44e88028c9.png)
 
-
-![图片](https://user-images.githubusercontent.com/34714250/117628179-724b6600-b1ab-11eb-8775-9dc3de60f62b.png)
 
 
 # 部署配置
