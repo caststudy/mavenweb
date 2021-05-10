@@ -14,6 +14,9 @@
 
 # 部署配置
 
-![图片](https://user-images.githubusercontent.com/34714250/117628535-dc640b00-b1ab-11eb-9dec-518eb1bbe000.png)
+![图片](https://user-images.githubusercontent.com/34714250/117632488-c2c4c280-b1af-11eb-9338-5ddf890d0a43.png)
 
-![图片](https://user-images.githubusercontent.com/34714250/117628569-e6860980-b1ab-11eb-9fa5-a928226b6b78.png)
+![图片](https://user-images.githubusercontent.com/34714250/117632517-cbb59400-b1af-11eb-9e8d-961c129f838f.png)
+
+![图片](https://user-images.githubusercontent.com/34714250/117632534-d07a4800-b1af-11eb-9f45-4e59fa24099e.png)
+
